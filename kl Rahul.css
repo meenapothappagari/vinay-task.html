@@ -1,0 +1,131 @@
+/* .tbg{
+    background-color: rgb(117, 207, 177);
+    height: 100vh;
+    width: 100vw;
+    text-align: left;
+    font-size: 40px;
+}
+.para{
+    text-align: left;
+    font-size: 20px;
+    font-family: Verdana;
+    margin: 40px;
+    height:25px;
+}
+.card{
+    background-color:crimson;
+    height:38vh;
+    width: 100vw;
+}
+.img{
+    background-image: url("https://image-cdn.essentiallysports.com/wp-content/uploads/20200424180621/sachin-tendulkar-1556110391.jpg");
+    width: 200px;
+    height: 200px;
+    
+}
+.p{
+    font-size: 17px;
+    font-family: sans-serif;
+    margin: -150px;
+    align-items: end;
+    position: absolute;
+    margin-left: 300px;
+    
+    
+
+}
+.card2{
+    background-color: aliceblue;
+    height: 46vh;
+    width: 150vw;
+    margin: 2px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 300px;
+}
+.image2{
+    background-image: url("https://docs.google.com/document/d/12GR8DDLZU9Xf_1SaqqKlyMcZ2MrJ05L0wIriFDL5btQ/edit");
+    width: 30vw;
+    height:25vh;
+    padding: 5;
+    top: 4%;
+}
+.buttom{
+    font-size: 50px;
+    font-family: sans-serif;
+    height: 300px;
+    width: 10px;
+
+}
+.buttom2{
+    font-size: 1px;
+    font-family: Verdana;
+    height: 8px;
+    width: 5px;
+} */
+
+    
+
+
+.bg {
+    justify-content: center;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    min-height: 90vh;
+    background-color: rgb(195, 213, 213);
+    width: 700px;
+    margin-inline-start: 350px;
+    margin-top: 50px;
+}
+
+.card {
+    color: black;
+    width: 700px;
+    background-color: rgb(146, 2, 2);
+    display: flex;
+    height: 180px;
+    border-radius: none;
+}
+
+.h {
+    font-weight: 200px;
+    margin-top: 20px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.img {
+    width: 190px;
+    height: 160px;
+}
+
+.H {
+    text-align: left;
+}
+
+.card2 {
+    background-color: rgb(252, 78, 58);
+    border-radius: 20px;
+    width: 680px;
+}
+
+.b {
+    margin-left: 90px;
+    display: flex;
+    text-align: center;
+}
+.bg1{
+    background-color: aquamarine;
+    align-items: center;
+}
+.btn {
+    background-color:orange;
+    font-family: sans-serif;
+    border-radius: 10px;
+    margin-top: 15px;
+    border: 2px solid black;
+}
+
+
+

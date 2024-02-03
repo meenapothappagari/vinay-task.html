@@ -1,0 +1,36 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh; 
+    border: none;
+}
+
+.card {
+    width: 480px;
+    margin: 30px;
+    margin-inline-start: 450px;
+    height: auto;
+    overflow:unset;
+}
+
+.gallery {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    margin-top: 15px;
+}
+
+.img {
+    margin-left: 44px;
+}
+
+.para {
+    height: 50px;
+    width: 150px;
+    display: flex;
+}
+
+.video {
+    margin-left: 39px;
+}
